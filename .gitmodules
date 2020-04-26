@@ -1,0 +1,3 @@
+[submodule "source/lib/canvas-ribbon"]
+	path = source/lib/canvas-ribbon
+	url = https://github.com/theme-next/theme-next-canvas-ribbon
