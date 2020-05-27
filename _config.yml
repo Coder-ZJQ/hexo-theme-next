@@ -202,10 +202,9 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
-  Apple API Reference: https://developer.apple.com/reference/
-  Apple Guide: https://developer.apple.com/library/prerelease/content/navigation/
-  react: https://facebook.github.io/react/
-  react-native: http://facebook.github.io/react-native/
+  Apple Developer Documentation: https://developer.apple.com/reference/
+  Apple Documentation Archive: https://developer.apple.com/library/prerelease/content/navigation/
+  Apple Open Source: https://opensource.apple.com/
   dribbble: https://dribbble.com/
   pttrns: https://pttrns.com/
   deviant art: http://www.deviantart.com/
